@@ -8,8 +8,8 @@ and make it explode in order to stop it for good.
 
 ## Team Members : 
 
-Stéphane Murça : https://github.com/Stephane1902
-Mathieu Melek :  https://github.com/AxolotlTropKawai
-Quentin Guerif : https://github.com/Winchhh
-Ayoub Ouahid : https://github.com/oayouub
+Stéphane Murça : [Lien GitHub Stéphane](https://github.com/Stephane1902)
+Mathieu Melek :  [Lien GitHub Mathieu](https://github.com/AxolotlTropKawai)
+Quentin Guerif : [Lien GitHub Quentin](https://github.com/Winchhh)
+Ayoub Ouahid : [Lien GitHub Ayoub](https://github.com/oayouub)
 
