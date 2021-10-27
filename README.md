@@ -6,10 +6,13 @@
 led by Bill Gaté, one of the most polluting companies in the world. Thanks to your latest invention that allows you to slow down the objects around you, you will enter his factory 
 and make it explode in order to stop it for good. 
 
+![Image](Scientifique.png "scientist_icon")
+
+
+
 ## Team Members : 
 
-Stéphane Murça : [Lien GitHub Stéphane](https://github.com/Stephane1902)  
-Mathieu Melek :  [Lien GitHub Mathieu](https://github.com/AxolotlTropKawai)  
-Quentin Guerif : [Lien GitHub Quentin](https://github.com/Winchhh)  
-Ayoub Ouahid : [Lien GitHub Ayoub](https://github.com/oayouub)  
-
+Stéphane Murça : [Lien GitHub de Stéphane](https://github.com/Stephane1902)  
+Mathieu Melek :  [Lien GitHub de Mathieu](https://github.com/AxolotlTropKawai)  
+Quentin Guerif : [Lien GitHub de Quentin](https://github.com/Winchhh)  
+Ayoub Ouahid : [Lien GitHub de Ayoub](https://github.com/oayouub)  
