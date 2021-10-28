@@ -10,6 +10,8 @@ and make it explode in order to stop it for good.
 
 ![Image of a factory](https://openclipart.org/image/800px/310197)
 
+![Image of a factory](https://i.redd.it/7cefmmdirig41.png)
+
 ## Team Members : 
 
 Stéphane Murça : [Lien GitHub de Stéphane](https://github.com/Stephane1902)  
