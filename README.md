@@ -6,10 +6,13 @@
 led by Bill Gaté, one of the most polluting companies in the world. Thanks to your latest invention that allows you to slow down the objects around you, you will enter his factory 
 and make it explode in order to stop it for good. 
 
+### The main character
 ![Image of a scientist](https://pixelartmaker-data-78746291193.nyc3.digitaloceanspaces.com/image/a64c49148dec501.png)
 
+### What you must destroy ...
 ![Image of a factory](https://openclipart.org/image/800px/310197)
 
+### ... to make nature breath again
 ![Image of a factory](https://i.redd.it/7cefmmdirig41.png)
 
 ## Team Members : 
